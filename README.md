@@ -1,0 +1,5 @@
+- 👋 May Peace be upon you :) I’m Junaid Ahmed from Pakistan.
+- 👀 Here are some languages that i know : Python || Java || C++ || HTML || CSS
+- 🌱 I’m currently persuing my Software Engineering Degree at university and I am in my 3rd year/ 5th semester
+- 💞️ I’m looking to collaborate on any kind of Python , Java or C++ related projects.
+- 📫 you can reach me on twitter: https://twitter.com/JunaidA60954472 || on my email @junaidahmed032.cui@gmail.com
