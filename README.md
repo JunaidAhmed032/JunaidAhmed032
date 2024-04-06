@@ -1,3 +1,4 @@
+![logo](https://github.com/JunaidAhmed032/JunaidAhmed032/blob/main/github_banner_junaid-ahmed.png)
 <h1 align="center">Hi 👋, I'm Junaid Ahmed</h1>
 <h3 align="center">Transcending pixels, weaving dreams, and shaping the digital horizon.</h3>
 <img align="right" alt="coding" width="400" src="https://miro.medium.com/v2/resize:fit:1200/1*anJ_utnaYQXFKbap2s0oJg.gif">
