@@ -4,17 +4,15 @@
 <img align="right" alt="coding" width="400" src="https://miro.medium.com/v2/resize:fit:1200/1*anJ_utnaYQXFKbap2s0oJg.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=junaidahmed032&label=Profile%20views&color=0e75b6&style=flat" alt="junaidahmed032" /> </p>
 
-- 🔭 I’m currently working on **a secret flutter project**
+- 🔭 I’m currently working as a **Computer Engineer** at GIKI
 
-- 🌱 I’m currently learning **Dart | Flutter**
+- 🌱 I’m currently learning **Spark**
 
-- 👯 I’m looking to collaborate on **Python & React Native Projects**
+- 👯 I’m looking to collaborate on **Python Projects**
 
-- 🤝 I’m looking for help with **Dart | Flutter**
+- 🤝 I’m looking for help with **Backend Projects**
 
-- 👨‍💻 All of my projects are available at [https://junaidahmed032cui.wixsite.com/my-site](https://junaidahmed032cui.wixsite.com/my-site)
-
-- 💬 Ask me about **Python | React Native | C# | Wix & Wordpress**
+- 💬 Ask me about **Python | React Native | C# | Java**
 
 - 📫 How to reach me **junaidahmed032.cui@gmail.com**
 
